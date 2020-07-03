@@ -1,0 +1,14 @@
+F:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\bin\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.exe.config
+F:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\bin\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.exe
+F:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\bin\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.pdb
+F:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.csprojAssemblyReference.cache
+F:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.csproj.CoreCompileInputs.cache
+F:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.exe
+F:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.pdb
+E:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\bin\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.exe.config
+E:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\bin\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.exe
+E:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\bin\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.pdb
+E:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.csprojAssemblyReference.cache
+E:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.csproj.CoreCompileInputs.cache
+E:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.exe
+E:\max\Programming\02_C#_Smolyaninov\alg\ITMO.CSCourse2020.Syatc00M.GasProperties\ITMO.CSCourse2020.Syatc00M.GasProperties\obj\Debug\ITMO.CSCourse2020.Syatc00M.GasProperties.pdb
